@@ -1,0 +1,21 @@
+{
+    "name": "ilkoiliev/helloworld",
+    "description": "пробно използване на гит хъб",
+    "license": "MIT",
+    "keywords": ["helloworld"],
+    "authors": [
+        {
+            "name": "Ilko Iliev",
+            "email": "name@domain.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "IlkoIliev\\HelloWorld\\": "src"
+        }
+    }
+}
