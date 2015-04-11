@@ -1,5 +1,6 @@
 {
     "name": "ilkoiliev/helloworld",
+    "version": "0.1.0",
     "description": "пробно използване на гит хъб",
     "license": "MIT",
     "keywords": ["helloworld"],
